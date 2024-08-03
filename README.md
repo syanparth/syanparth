@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syanparth&label=Profile%20views&color=0e75b6&style=flat" alt="syanparth" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syanparth" alt="syanparth" /></a> </p>
+
 - 🔭 I’m currently working on **Deep Fake audio/video detection.**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syanparth&show_icons=true&locale=en" alt="syanparth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syanparth&" alt="syanparth" /></p>
+
