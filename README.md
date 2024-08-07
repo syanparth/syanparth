@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanparth&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&icon_color=0e75b6&title_color=0e75b6&text_color=FFFFFF&bg_color=000000&animate=true" alt="Top Languages" />
 </p>
 
-<h3 align="center" style="color: #FFA500;">GitHub Trophies:</h3>
+<h3 align="center" style="color: #FFFFFF;">GitHub Trophies:</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=darcula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories&animate=true" alt="GitHub Trophies" />
 </p>
