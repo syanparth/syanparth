@@ -61,29 +61,21 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syanparth&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syanparth&show_icons=true&theme=radical&count_private=true&hide_border=true&animate=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syanparth&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syanparth&theme=radical&hide_border=true&animate=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanparth&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanparth&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&animate=true" alt="Top Languages" />
 </p>
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=algolia&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=algolia&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories&animate=true" alt="GitHub Trophies" />
 </p>
-
-<h3 align="left">Dynamic Content:</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</p>
-
 
 
 
