@@ -74,8 +74,16 @@
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=algolia" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=algolia&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories" alt="GitHub Trophies" />
 </p>
+
+<h3 align="left">Dynamic Content:</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+</p>
+
 
 
 
