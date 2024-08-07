@@ -74,8 +74,9 @@
 
 <h3 align="center" style="color: #003366;">GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=nord&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories&animate=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=ocean&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories&animate=true" alt="GitHub Trophies" />
 </p>
+
 
 
 
