@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parth+Syandan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parth+Syandan" alt="Typing SVG" />
 </h1>
 <h3 align="center">🎓 I'm a computer science engineering student</h3>
 
@@ -61,20 +61,20 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syanparth&show_icons=true&theme=radical&count_private=true&hide_border=true&animate=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syanparth&show_icons=true&theme=dark&hide_border=true&icon_color=0e75b6&title_color=0e75b6&text_color=FFFFFF&bg_color=000000&animate=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syanparth&theme=radical&hide_border=true&animate=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syanparth&theme=dark&hide_border=true&fire=FF0000&ring=FF0000&sideNums=FF0000&sideLabels=0e75b6&background=000000&animate=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanparth&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&animate=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanparth&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&icon_color=0e75b6&title_color=0e75b6&text_color=FFFFFF&bg_color=000000&animate=true" alt="Top Languages" />
 </p>
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=algolia&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories&animate=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=dark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories&animate=true" alt="GitHub Trophies" />
 </p>
 
 
