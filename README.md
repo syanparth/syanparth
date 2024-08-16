@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230e75b6&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=🎓Parth+Syandan;I+am+a+computer+science+engineering+student" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230e75b6&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Parth+Syandan;🎓Computer+Science+Engineering+Student" width="auto" height="35"/>
 </p>
 
 <h3 align="center"><strong>My Interests</strong></h3>
