@@ -5,14 +5,9 @@
 <!-- Heading for Computer Science Engineering Student -->
 <h3 align="center" style="font-weight: bold; font-size: 24px; margin: 30px 0 10px 0;">🎓 Computer Science Engineering Student</h3>
 
-<!-- Heading for My Interests -->
-<h3 align="center" style="font-weight: normal; font-size: 18px; color: #1E90FF; margin: 10px 0 20px 0;">My Interests 🔭</h3>
 
-<!-- Typing SVG for Interests -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
 </p>
-<h3 align="center">My interests</h3>
+<h3 align="center">My interests 🔭</h3>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=0e75b6&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
   
