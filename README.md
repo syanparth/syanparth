@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/header.png"/>
-</p>
+
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230e75b6&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Parth+Syandan;Computer+Science+Student" width="auto" height="35"/>
