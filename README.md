@@ -4,9 +4,6 @@
 
 <h3 align="center">🎓 I'm a computer science engineering student</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=syanparth&label=Profile%20views&color=0e75b6&style=flat" alt="syanparth" />
-</p>
 
 <h3 align="center"><strong>My Interests</strong></h3>
 
