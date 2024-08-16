@@ -4,11 +4,8 @@
 
 <h3 align="center" style="font-weight: bold; font-size: 24px; margin: 20px 0; padding-left: 10px;">🎓 Computer Science Engineering Student</h3>
 
-<p align="center">
-  <img src="https://your-image-host.com/color-changing-text.gif" alt="Color Changing Text"/>
-</p>
 
-
+<h3 align="center" style="font-weight: normal; font-size: 20px; margin: 20px 0; color: #1E90FF; padding-right: 10px;">My Interests 🔭</h3>
 
 
 <p align="center">
