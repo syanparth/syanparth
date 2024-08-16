@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=I'm+Parth+Syandan" alt="Typing SVG" />
 </p>
 
-<h3 align="left" style="font-weight: bold; font-size: 24px; margin: 20px 0; padding-left: 10px;">🎓 Computer Science Engineering Student</h3>
+<h3 align="center" style="font-weight: bold; font-size: 24px; margin: 20px 0; padding-left: 10px;">🎓 Computer Science Engineering Student</h3>
 
-<h3 align="right" style="font-weight: normal; font-size: 20px; margin: 20px 0; padding-right: 10px;">My Interests 🔭</h3>
+<h3 align="left" style="font-weight: normal; font-size: 20px; margin: 20px 0; padding-right: 10px;">My Interests 🔭</h3>
 
 
 
