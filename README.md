@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/header.png"/>
+  <img src="<img width="361" alt="Screenshot 2024-07-23 232427" src="https://github.com/user-attachments/assets/95cf0f2a-ca16-4327-82c0-f075dea76cf3">
+.png"/>
 </p>
 
 <p align="center">
