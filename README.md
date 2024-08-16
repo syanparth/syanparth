@@ -4,8 +4,11 @@
 
 <h3 align="center" style="font-weight: bold; font-size: 24px; margin: 20px 0; padding-left: 10px;">🎓 Computer Science Engineering Student</h3>
 
+<!-- Add space between the lines -->
+<p align="center"><br></p>
 
-<h3 align="center" style="font-weight: normal; font-size: 20px; margin: 20px 0; color: #1E90FF; padding-right: 10px;">My Interests 🔭</h3>
+<h3 align="center" style="font-weight: normal; font-size: 20px; color: #1E90FF; padding-right: 10px;">My Interests 🔭</h3>
+
 
 
 <p align="center">
