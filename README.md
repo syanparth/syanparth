@@ -4,13 +4,12 @@
 
 <h3 align="center" style="font-weight: bold; font-size: 24px; margin: 20px 0; padding-left: 10px;">🎓 Computer Science Engineering Student</h3>
 
-<!-- Add space between the lines -->
+
+<p align="center"><br></p>
+<p align="center"><br></p>
 <p align="center"><br></p>
 
 <h3 align="center" style="font-weight: normal; font-size: 20px; color: #1E90FF; padding-right: 10px;">My Interests 🔭</h3>
-
-
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
 
