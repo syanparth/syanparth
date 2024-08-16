@@ -11,8 +11,9 @@
 
 <!-- Typing SVG for Interests -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
 </p>
+
 
 
 
