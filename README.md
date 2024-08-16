@@ -2,20 +2,18 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230e75b6&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=**Parth+Syandan**;Computer+Science+Student" width="auto" height="35"/>
 </p>
 
-<h3 align="center" style="font-style: italic; color: #0e75b6;">My Interests</h3>
+<h3 align="center"><strong>My Interests</strong></h3>
 
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23ff6600&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
-</p>
+<p align="center">Artificial Intelligence | Machine Learning | Data Science</p>
 
-<p align="center" style="font-weight: bold; color: #0e75b6;">Currently learning - Artificial Intelligence and Machine Learning</p>
-<p align="center" style="font-weight: bold; color: #0e75b6;">Currently working on - Deep Fake Audio/Video Detection</p>
+<p align="center">Currently learning: Artificial Intelligence and Machine Learning</p>
+<p align="center">Currently working on: Deep Fake Audio/Video Detection</p>
 
-<h3 align="center" style="font-style: italic; color: #0e75b6;">Most Wanted Language</h3>
+<h3 align="center"><strong>Most Wanted Language</strong></h3>
 
 <p align="center">
   <a href="https://github.com/syanparth/Python_Practice.git" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="65" width="65" style="border-radius: 50%; box-shadow: 0 0 10px #0e75b6;"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="65" width="65" />
   </a>
 </p>
 
