@@ -6,7 +6,6 @@
 
 
 <p align="center"><br></p>
-<p align="center"><br></p>
 
 <h3 align="center" style="font-weight: normal; font-size: 20px; color: #1E90FF; padding-right: 10px;">My Interests 🔭</h3>
 <p align="center">
