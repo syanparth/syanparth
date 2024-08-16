@@ -40,18 +40,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syanparth&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
-</p>
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/parth-syandan-65b635253/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/syanparth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Parth Syandan" height="30" width="40" />
-  </a>
-</p>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
 
 
 
