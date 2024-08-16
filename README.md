@@ -4,7 +4,34 @@
 
 <h3 align="center" style="font-weight: bold; font-size: 24px; margin: 20px 0; padding-left: 10px;">🎓 Computer Science Engineering Student</h3>
 
-<h3 align="center" style="font-weight: normal; font-size: 20px; margin: 20px 0; padding-right: 10px;">My Interests 🔭</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @keyframes colorChange {
+            0% { color: #FF0000; }
+            25% { color: #00FF00; }
+            50% { color: #0000FF; }
+            75% { color: #FFFF00; }
+            100% { color: #FF00FF; }
+        }
+
+        .color-changing-text {
+            font-weight: normal;
+            font-size: 20px;
+            margin: 20px 0;
+            padding-right: 10px;
+            animation: colorChange 5s infinite;
+        }
+    </style>
+</head>
+<body>
+    <h3 class="color-changing-text">My Interests 🔭</h3>
+</body>
+</html>
+
 
 
 
