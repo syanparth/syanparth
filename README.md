@@ -4,9 +4,9 @@
 
 <h3 align="center"><strong>My Interests</strong></h3>
 
-<p align="center">Artificial Intelligence | Machine Learning | Data Science</p>
+<p align="center">Data Science | Machine Learning | Deep Learning</p>
 
-<p align="center">Currently learning: Artificial Intelligence and Machine Learning</p>
+<p align="center">Currently learning: Machine Learning and Deep Learning </p>
 <p align="center">Currently working on: Deep Fake Audio/Video Detection</p>
 
 <h3 align="center"><strong>Most Wanted Language</strong></h3>
