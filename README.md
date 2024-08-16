@@ -4,7 +4,7 @@
 
 <h3 align="center" style="font-weight: bold;">🎓 Computer Science Engineering Student</h3>
 
-<h3 align="center" style="font-weight: normal;"> My Interests 🔭</h3>
+<h3 align="center" style="font-weight: normal;">My Interests 🔭</h3>
 <p align="center">
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
 
