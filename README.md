@@ -9,13 +9,6 @@
 <p align="center">Currently learning: Machine Learning and Deep Learning </p>
 <p align="center">Currently working on: Deep Fake Audio/Video Detection</p>
 
-<h3 align="center"><strong>Most Wanted Language</strong></h3>
-
-<p align="center">
-  <a href="https://github.com/syanparth/Python_Practice.git" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="65" width="65" />
-  </a>
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syanparth&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
