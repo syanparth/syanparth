@@ -4,17 +4,20 @@
 
 <h3 align="center">🎓 I'm a computer science engineering student</h3>
 
+
 <h3 align="center">My Interests</h3>
 <p align="center">
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syanparth&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
-</p>
+
 
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=syanparth&hide_border=true&theme=transparent" /> 
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syanparth&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>
 
 <!--Trophy-->
