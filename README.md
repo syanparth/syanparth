@@ -5,10 +5,10 @@
 <h3 align="center">🎓 I'm a computer science engineering student</h3>
 
 
+
 <h3 align="center"><strong>My Interests</strong></h3>
 
 <p align="center">Data Science | Machine Learning | Deep Learning</p>
-
 <p align="center">Currently learning: Machine Learning and Deep Learning </p>
 <p align="center">Currently working on: Deep Fake Audio/Video Detection</p>
 
