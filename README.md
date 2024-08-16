@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
 
-
+<p align="center"><br></p>
 
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=syanparth&hide_border=true&theme=transparent" /> 
