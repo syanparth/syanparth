@@ -12,6 +12,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" />
 </p>
+<h3 align="center">My interests</h3>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
+</p>
 
 
 
