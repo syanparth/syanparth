@@ -1,6 +1,7 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=I'm+Parth+Syandan" alt="Typing SVG" />
-</h1>
+</p>
+
 <h3 align="center">🎓 I'm a computer science engineering student</h3>
 
 <p align="left">
@@ -76,6 +77,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=syanparth&theme=blueberry&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Commits,Followers,Repositories&animate=true" alt="GitHub Trophies" />
 </p>
+
 
 
 
