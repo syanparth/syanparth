@@ -40,6 +40,9 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syanparth&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/syanparth/syanparth/output/snake.svg" alt="Snake animation" />
+
+
 
 
 
