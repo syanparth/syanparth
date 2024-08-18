@@ -39,6 +39,11 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syanparth&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syanparth&theme=transparent" height="180em" alt="Commitments"/>
 </div>
+<br clear="both">
+
+<!-- Snake animation with your GitHub username -->
+<img src="https://raw.githubusercontent.com/syanparth/syanparth/output/snake.svg" alt="Snake animation" />
+
 
 
 
